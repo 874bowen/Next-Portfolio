@@ -6,7 +6,7 @@ import supreme from "../public/assets/projects/mediake.png";
 import waive from "../public/assets/projects/waive.png";
 import dcs from "../public/assets/projects/dcs.png";
 
-import ProjectItem from "./projectItem";
+import ProjectItem from "./ProjectItem";
 
 const Projects = () => {
 	return (
