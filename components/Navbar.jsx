@@ -85,7 +85,7 @@ const Navbar = () => {
 								<li className="py-4 text-sm">Contact</li>
 							</Link>
 						</ul>
-						<div className="pt-40">
+						<div className="pt-20">
 							<p className="uppercase tracking-widest text-[#722410]">Let&apos;s connect</p>
 							<div className="flex items-center justify-between my-4 w-full">
 								<div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
