@@ -15,7 +15,7 @@ const Projects = () => {
 				<p className="uppercase text-xl tracking-widest text-[#722410]">
 					Projects/Open Source
 				</p>
-				<h2 className="py-2 text-[#44a3ac]">What I&apos;ve Built</h2>
+				<h2 className="py-2 text-[#234894]">What I&apos;ve Built</h2>
 				<div className="grid md:grid-cols-2 gap-8">
 					<ProjectItem
 						title="Rick & Morty Characters"
